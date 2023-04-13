@@ -1,0 +1,11 @@
+Model Information:
+* title:	Body traces - Warsaw 3D MAP XI
+* source:	https://sketchfab.com/3d-models/body-traces-warsaw-3d-map-xi-27e936247e4c48d59824bd21ff4aba9b
+* author:	MWintersberger (https://sketchfab.com/mwintersberger)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Body traces - Warsaw 3D MAP XI" (https://sketchfab.com/3d-models/body-traces-warsaw-3d-map-xi-27e936247e4c48d59824bd21ff4aba9b) by MWintersberger (https://sketchfab.com/mwintersberger) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
